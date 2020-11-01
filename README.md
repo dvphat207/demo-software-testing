@@ -1,4 +1,4 @@
-# demo-software-testing
+# Demo Software Testing
 
 ## Scripts
 
