@@ -1,6 +1,6 @@
 # Demo Software Testing
 
-## Scripts
+## Commands
 ```bash
 npm i
 npm start
